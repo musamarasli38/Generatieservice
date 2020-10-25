@@ -7,5 +7,7 @@ namespace Trends_III___Generatieservice
 {
     public class Loonbrief
     {
+
+
     }
 }
