@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1145
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trends III - Generatieservice", "Trends III - Generatieservice\Trends III - Generatieservice.csproj", "{7B465E49-3283-4D88-AC20-78DB8918D441}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcertaGeneratieService", "AcertaGeneratieService\AcertaGeneratieService.csproj", "{37F34057-A5E1-4D18-BDF0-8DAF15DCA91B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7B465E49-3283-4D88-AC20-78DB8918D441}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B465E49-3283-4D88-AC20-78DB8918D441}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B465E49-3283-4D88-AC20-78DB8918D441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37F34057-A5E1-4D18-BDF0-8DAF15DCA91B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F34057-A5E1-4D18-BDF0-8DAF15DCA91B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F34057-A5E1-4D18-BDF0-8DAF15DCA91B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F34057-A5E1-4D18-BDF0-8DAF15DCA91B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
