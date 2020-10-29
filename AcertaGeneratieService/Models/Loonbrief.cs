@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class Class1 : Loonbrief
+public class Loonbrief : Report
 {
     public double Salaris { get; set; }
     public int Werkuren { get; set; }
