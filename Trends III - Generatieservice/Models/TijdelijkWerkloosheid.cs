@@ -7,6 +7,5 @@ public abstract class TijdelijkWerkloosheid : Report
     public bool Overschrijving { get; set; }
     public string Telefoonnummer { get; set; }
     public string Email { get; set; }
-
-
+    
 }
